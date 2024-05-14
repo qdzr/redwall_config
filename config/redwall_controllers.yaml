@@ -1,0 +1,12 @@
+ controller_list:
+  - name: redwall
+    action_ns: follow_joint_trajectory
+    type: FollowJointTrajectory
+    default: true
+    joints:
+      - lumbar
+      - big_arm
+      - small_arm
+      - wrist
+      - hand
+      - finger

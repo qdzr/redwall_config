@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: redwall
+    relative_path: urdf/redwall.urdf
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/redwall.srdf
+  CONFIG:
+    author_name: sunjun
+    author_email: 278057820@qq.com
+    generated_timestamp: 1682947521
