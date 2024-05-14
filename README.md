@@ -1,0 +1,2 @@
+# redwall_config
+从sw三维模型创建的moveit_config功能包
